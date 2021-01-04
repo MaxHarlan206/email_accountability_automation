@@ -1,5 +1,4 @@
-# email_accountability_automation
-
+# NEW YEARS ACCOUNTABILITY PROGRAM WITH EMAIL AUTOMATION AND WEBSCRAPING 
 WHY DID I MAKE IT?
 My mothers 2021 new years resolution was to write a kind letter every day to someone close to her.
 This email automation program was built to keep her motivated. 
